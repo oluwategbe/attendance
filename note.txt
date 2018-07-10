@@ -1,0 +1,14 @@
+Database
+
+CRUD
+Create records e.g signup.php
+Retrieve records e.g view info
+update records
+delete records
+
+Step to use database
+1. Connect to database
+2. Define your query (Define what you want to do with the database)
+3. Perform the query
+4. Handle data from query (Retrieve - showing/displaying information)
+
